@@ -1,2 +1,1 @@
-# shop-page-with-bootstrap
- 
+свертаем страницу с использованием bootstrap
