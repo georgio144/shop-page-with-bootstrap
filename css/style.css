@@ -1,4 +1,19 @@
-.box {
+.container-sm {
+  height: 50px;
+  background-color: lightblue;
+}
+
+.container-md {
+  height: 50px;
+  background-color: lightblue;
+}
+
+.container-lg {
+  height: 50px;
+  background-color: lightblue;
+}
+
+.container-xl {
   height: 50px;
   background-color: lightblue;
 }
